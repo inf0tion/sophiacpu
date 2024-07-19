@@ -1,0 +1,2 @@
+# sophiacpu
+ソフィアCPU
